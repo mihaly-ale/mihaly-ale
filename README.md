@@ -10,9 +10,9 @@
 * JavasScript
 
 ### Examples of my projects
-<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/calculator-thumbnail.png" width="450" alt="calculator"/>
-<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/etchasketch-thumbnail.png" width="450" alt="etch-a-sketch"/>
-<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/rockpaperscissors-thumbnail.png" width="450" alt="rock-paper-scissors"/>
+[<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/calculator-thumbnail.png" width="350" alt="calculator"/>](https://github.com/mihaly-ale/odinProject-calculator)
+[<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/etchasketch-thumbnail.png" width="350" alt="etch-a-sketch"/>](https://github.com/mihaly-ale/odinProject-EtchASketch)
+[<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/rockpaperscissors-thumbnail.png" width="350" alt="rock-paper-scissors"/>](https://github.com/mihaly-ale/odinProject-rockPaperScissors)
 
 
 - 🔭 I’m currently studying [The Odin Project -  Full Stack Javascript](https://www.theodinproject.com/paths/full-stack-javascript).  
