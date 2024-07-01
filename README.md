@@ -1,4 +1,5 @@
 ![Mihaly Ale](https://github.com/mihaly-ale/mihaly-ale/blob/main/github-banner.png)
+
 #Hi there 👋, my name is Mihaly.
 ## I am novice web developer. I really enjoy learning new technologies,  and as well design and create websites. 
 
@@ -12,7 +13,7 @@
 ### Examples of my projects
 [<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/calculator-thumbnail.png" height="250" alt="calculator"/>](https://github.com/mihaly-ale/odinProject-calculator)
 [<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/etchasketch-thumbnail.png" height="250" alt="etch-a-sketch"/>](https://github.com/mihaly-ale/odinProject-EtchASketch)
-[<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/rockpaperscissors-thumbnail.png" height="250" alt="rock-paper-scissors"/>](https://github.com/mihaly-ale/odinProject-rockPaperScissors)
+[<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/rockpaperscissors-thumbnail.png" height="250" alt="rock-paper-scissors"/>](https://github.com/mihaly-ale/odinProject-rockPaperScissors) <br> <br>
 
 
 - 🔭 I’m currently studying [The Odin Project -  Full Stack Javascript](https://www.theodinproject.com/paths/full-stack-javascript).   <br> <br>
