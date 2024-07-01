@@ -22,10 +22,10 @@ I am a novice web developer. I really enjoy learning new technologies, and desig
 
 <br>
 
-[<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/linkedin-icon.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/mihaly-ale//)
-[<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/codepen-icon.svg' alt='codepen' height='20'>](https://codepen.io/mihaly-ale)
-[<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/website-icon.svg' alt='website' height='20'>](https://mihaly-ale.github.io/portfolio/)
-[<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/credly-icon.svg' alt='credly' height='20'>](https://www.credly.com/users/mihaly-ale/badges)
+[<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/linkedin-icon.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/mihaly-ale//) <br>
+[<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/codepen-icon.svg' alt='codepen' height='20'>](https://codepen.io/mihaly-ale) <br>
+[<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/website-icon.svg' alt='website' height='20'>](https://mihaly-ale.github.io/portfolio/) <br>
+[<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/credly-icon.svg' alt='credly' height='20'>](https://www.credly.com/users/mihaly-ale/badges) <br>
 
 
 
