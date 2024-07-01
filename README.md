@@ -7,8 +7,10 @@
 [![Mihaly Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaly-ale)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Skills:
-JS / HTML / CSS
+### Skills:
+* HTML
+* CSS
+* JavasScript
 
 - 🔭 I’m currently studying [The Odin Project -  Full Stack Javascript](https://www.theodinproject.com/paths/full-stack-javascript). 
 - 
