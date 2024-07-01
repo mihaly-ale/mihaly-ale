@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently studying [The Odin Project -  Full Stack Javascript](https://www.theodinproject.com/paths/full-stack-javascript).  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mihaly-ale//) [<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/codepen-icon.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/mihaly-ale)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mihaly-ale.github.io/portfolio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='credly' height='40'>](https://github.com/mihaly-ale/mihaly-ale/blob/main/github-banner.png)  
+[<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mihaly-ale//) [<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/codepen-icon.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/mihaly-ale)[<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/website-icon.svg' alt='website' height='40'>](https://mihaly-ale.github.io/portfolio/)  [<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/credly-icon.svg' alt='credly' height='40'>](https://www.credly.com/users/mihaly-ale/badges)  
 
 
 
