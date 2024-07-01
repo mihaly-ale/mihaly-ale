@@ -16,7 +16,11 @@ I am a novice web developer. I really enjoy learning new technologies, and desig
 [<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/etchasketch-thumbnail.png" height="250" alt="etch-a-sketch"/>](https://github.com/mihaly-ale/odinProject-EtchASketch)
 [<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/rockpaperscissors-thumbnail.png" height="250" alt="rock-paper-scissors"/>](https://github.com/mihaly-ale/odinProject-rockPaperScissors)
 
+<br>
+
 - 🔭 I’m currently studying [The Odin Project - Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript).
+
+<br>
 
 [<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mihaly-ale//)
 [<img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/codepen-icon.svg' alt='codepen' height='40'>](https://codepen.io/mihaly-ale)
