@@ -3,7 +3,7 @@
 [![Mihaly Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaly-ale)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Mihaly Ale](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 
