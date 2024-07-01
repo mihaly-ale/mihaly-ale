@@ -2,7 +2,7 @@
 
 # <img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/welcome.svg' height='70'/> my name is Mihaly.
 
-I am a novice web developer. I really enjoy learning new technologies, and designing and creating websites.
+I am a novice web developer. I really enjoy learning new technologies and designing and creating websites.
 
 [![Mihaly Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaly-ale)](https://github.com/anuraghazra/github-readme-stats)
 
