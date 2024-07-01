@@ -1,5 +1,5 @@
 ![Mihaly Ale](https://github.com/mihaly-ale/mihaly-ale/blob/main/github-banner.png)
-# Hi there 👋, my name is Mihaly.
+Hi there 👋, my name is Mihaly.
 ## I am novice web developer. I really enjoy learning new technologies,  and as well design and create websites. 
 
 [![Mihaly Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaly-ale)](https://github.com/anuraghazra/github-readme-stats)
