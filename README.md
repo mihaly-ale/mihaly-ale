@@ -1,6 +1,6 @@
-![Mihaly Ale](https://github.com/mihaly-ale/mihaly-ale/blob/main/github-banner.png)
+![Mihaly Ale](https://github.com/mihaly-ale/mihaly-ale/blob/main/banner.png)
 
-# <img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/welcome.svg' height='70'/> my name is Mihaly.
+# <img src='https://github.com/mihaly-ale/mihaly-ale/blob/main/wave.svg' height='40'/> my name is Mihaly.
 
 I am a web developer. I enjoy learning new technologies and designing and creating websites.
 
