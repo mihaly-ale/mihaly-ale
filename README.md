@@ -4,7 +4,7 @@
 
 I am a web developer. I enjoy learning new technologies and designing and creating websites.
 
-[![Mihaly Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaly-ale)](https://github.com/anuraghazra/github-readme-stats)
+[![Mihaly Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihaly-ale&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills:
 HTML | CSS | JavaScript
