@@ -7,8 +7,6 @@ I have experience with Astro, Sass, and Figma. I'm also interested in Linux and 
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaly-ale&layout=compact)
-
 ## Skills:
 
 - HTML
@@ -30,10 +28,12 @@ I have experience with Astro, Sass, and Figma. I'm also interested in Linux and 
 I’m currently studying [The Odin Project - Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript).
 
 <br/>
+<a href="https://www.credly.com/users/mihaly-ale">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mihaly-ale/mihaly-ale/blob/main/credly-icon-dark-theme.svg">
   <img alt="Mihaly Ale' badges on Credly." src="https://github.com/mihaly-ale/mihaly-ale/blob/main/credly-icon-light-theme.svg">
 </picture>  
+</a>
 
 <br/>
 <br/>
