@@ -1,4 +1,5 @@
-![Github banner](https://github.com/mihaly-ale/mihaly-ale/blob/main/github-banner.png)
+<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/gh-banner.jpg" width="100%" height="200">
+
 
 # Mihaly Ale
 
