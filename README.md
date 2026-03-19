@@ -1,5 +1,3 @@
-<img src="https://github.com/mihaly-ale/mihaly-ale/blob/main/gh-banner.jpg" width="100%" height="200">
-
 # Hi, I'm Mihaly (miːˈhaɪ)
 
 I'm a web development student with hands-on experience in **Astro**, **Sass**, and **Figma**.  
